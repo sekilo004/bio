@@ -1,0 +1,45 @@
+{
+    "menu" : {
+        "cvdownload" : "Download CV",
+        "dropdown" : {
+            "title" : "Languaje",
+            "optionEs" : "Spanish",
+            "optionEng" : "English"
+        }
+    },
+    "profile": {
+        "name" : "Ivan Alejandro Saldaña Guzman",
+        "career" : "Systems Engineer"
+    },
+    "template": {
+        "career" : {
+            "title" : "Professional Profile",
+            "resume" : "I’m a person passionate about TI, Opensource applications, programming and gadgets, I really like programming, I learn new programming languages and I do experiments with some different operating systems or applications in search of knowledge."
+        },
+        "exp" : {
+            "title" : "Experience",
+            "jobTitle1" : "SysAdmin",
+            "jobTime1" : "October 2017 - June 2018",
+            "jobLoc1" : "Intergas, Torreon Coahuila.",
+            "jobTx1" : "I Perform this work as a systems administrator, managing different operating systems and managing servers, implement the virtualization project to maximize the resources of the servers and multiply the services they can host. Also, develop as a software application developer, using different languages of programming, such as C #, Java, Html, JavaScript.",
+            "jobTitle2" : "Software Developer",
+            "jobTime2" : "June 2018 - November 2018",
+            "jobLoc2" : "Interax, Monterrey Nuevo Leon",
+            "jobTx2" : "I Perform this work as a fullstack software developer, using programming languages such as ​​Java, TypeScript, Html and using frameworks such as Play (java), Angular / Ionic (web), making backend and frontend projects with these tools."
+        },
+        "skills" : {
+            "title" : "Skills",
+            "resume" : "I consider myself a self-taught person, the following is a list of my general skills:",
+            "l1" : "Good understanding of English languaje",
+            "l2" : "Use of basic programs (Word, Excell, Powerpoint)",
+            "l3" : "Use of different Operating Systems:",
+            "l3-1" : "Windows: Windows server 2008, 2012.",
+            "l3-2" : "Linux/Unix: Solaris, OpenBSD, OpenSuse, Debian, Ubuntu.",
+            "l3-3" : "Mac Os.",
+            "l4" : "Network Management",
+            "l5" : "Maintenance and repair of computer equipment (Desktop, Server).",
+            "l6" : "Open Source Platforms: Raspberry, Arduino.",
+            "l7" : "Database Managing: SQL serve, MySQL, PostgreSQL, Oracle Database."
+        }
+    }
+}

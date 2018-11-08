@@ -1,0 +1,46 @@
+{
+    "menu" : {
+        "cvdownload" : "Descargar CV",
+        "dropdown" : {
+            "title" : "Idioma",
+            "optionEs" : "Español",
+            "optionEng" : "Ingles"
+        }
+    },
+    "profile": {
+        "name" : "Iván Alejandro Saldaña Guzman",
+        "career" : "Ingeniero en Sistemas"
+    },
+    "template": {
+        "career" : {
+            "title" : "Perfil Profesional",
+            "resume" : "Soy una persona apasionada por las tecnologías de información, aplicaciones, opensource, programación y gadgets, autodidacta, con gusto por la programación ya sea de aplicaciones, servicios o circuitos, busca superarse dentro del mundo de la computación. "
+        },
+        "exp" : {
+            "title" : "Experiencia",
+            "jobTitle1" : "Administrador de Sistemas",
+            "jobTime1" : "Oct 2017 - Jun 2018",
+            "jobLoc1" : "Intergas, Torreon Coahuila.",
+            "jobTx1" : "Desempeñe el trabajo como administrador de sistemas, manejando diferentes sistemas operativos, administrando servidores, implemente el proyecto de virtualizacion para maximizar los recursos de los servidores, asi como multiplicar los servicios que pueden alojar, Tambien desempeñe como desarrollador de aplicaciones de software, utilizando diferentes lenguajes de programacion, como C#, Java, Html, JavaScript.",
+            "jobTitle2" : "Desarrollador de Software",
+            "jobTime2" : "Jun 2018 - Nov 2018",
+            "jobLoc2" : "Interax, Monterrey Nuevo Leon",
+            "jobTx2" : "Desempeñe el trabajo como desarrollador de software fullstack, utilizando principalmente los lenguajes de programacion Java, TypeScript, Html, utilizando frameworks como Play (java), Angular/Ionic (web), realizando proyectos de backend y frontend con las herramientas mencionadas."
+        },
+        "skills" : {
+            "title" : "Habilidades y Conocimientos",
+            "resume" : "Me considero una persona autodidacta, el siguiente es un listado de mis habilidades en general:",
+            "l1" : "Buen entendimiento del idioma Ingles.",
+            "l2" : "Manejo de paqueteria Office.",
+            "l3" : "Manejo de distintos Sistemas Operativos:",
+            "l3-1" : "Windows: Windows server 2008, 2012.",
+            "l3-2" : "Linux/Unix: Solaris, OpenBSD, OpenSuse, Debian, Ubuntu.",
+            "l3-3" : "Mac Os.",
+            "l4" : "Manejo de redes computacionales, servidores de impresion.",
+            "l5" : "Manejo y Reparacion de equipo de computo y servidores.",
+            "l6" : "Uso de plataformas de libre uso: Raspberry, Arduino.",
+            "l7" : "Manejo de bases de datos: SQL serve, MySQL, PostgreSQL, Oracle Database."
+        }
+    }
+
+}
